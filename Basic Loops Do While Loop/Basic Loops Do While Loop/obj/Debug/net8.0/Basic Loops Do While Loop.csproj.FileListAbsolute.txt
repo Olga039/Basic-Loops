@@ -1,0 +1,14 @@
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\bin\Debug\net8.0\Basic Loops Do While Loop.exe
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\bin\Debug\net8.0\Basic Loops Do While Loop.deps.json
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\bin\Debug\net8.0\Basic Loops Do While Loop.runtimeconfig.json
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\bin\Debug\net8.0\Basic Loops Do While Loop.dll
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\bin\Debug\net8.0\Basic Loops Do While Loop.pdb
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.AssemblyInfoInputs.cache
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.AssemblyInfo.cs
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.csproj.CoreCompileInputs.cache
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.dll
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\refint\Basic Loops Do While Loop.dll
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.pdb
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\Basic Loops Do While Loop.genruntimeconfig.cache
+C:\Users\Micah\source\repos\Basic Loops Do While Loop\Basic Loops Do While Loop\obj\Debug\net8.0\ref\Basic Loops Do While Loop.dll

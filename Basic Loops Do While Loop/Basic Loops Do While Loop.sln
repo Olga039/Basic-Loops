@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Loops Do While Loop", "Basic Loops Do While Loop\Basic Loops Do While Loop.csproj", "{B119E2DF-E695-4C1B-930B-131DF120E990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B119E2DF-E695-4C1B-930B-131DF120E990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B119E2DF-E695-4C1B-930B-131DF120E990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B119E2DF-E695-4C1B-930B-131DF120E990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B119E2DF-E695-4C1B-930B-131DF120E990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A78A52-DE16-4DF9-B620-5154072239BA}
+	EndGlobalSection
+EndGlobal
